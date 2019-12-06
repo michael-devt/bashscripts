@@ -1,3 +1,5 @@
+#! /bin/bash
+
 git remote -v
 echo 'Reset Commit'
 echo 'Are you sure you want to reset your repo(Y/N)'
